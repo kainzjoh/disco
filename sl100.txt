@@ -8,6 +8,7 @@ onedrive.com
 *.torproject.org
 sharefile.com
 sharefile.io
+*.imgur.com
 storage.live.com
 *.wetransfer.com
 *.wetransfer.net
