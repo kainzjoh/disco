@@ -1,11 +1,11 @@
-*.torproject.com
-*.torproject.org
 *.sharefile.eu
 drive.google.com
 dropbox.com
 icloud.com
 oneclient.sfx.ms
 onedrive.com
+*.torproject.com
+*.torproject.org
 sharefile.com
 sharefile.io
 storage.live.com
