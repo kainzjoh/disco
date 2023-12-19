@@ -10,3 +10,4 @@ sharefile.com
 sharefile.io
 storage.live.com
 *.wetransfer.com
+*.wetransfer.net
