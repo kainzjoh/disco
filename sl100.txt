@@ -1,1 +1,2 @@
 *.torproject.com
+*.torproject.org
