@@ -6,6 +6,7 @@ oneclient.sfx.ms
 onedrive.com
 *.torproject.com
 *.torproject.org
+*.sharefile.com
 sharefile.com
 sharefile.io
 *.imgur.com
