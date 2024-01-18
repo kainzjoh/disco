@@ -1,8 +1,9 @@
 *.sharefile.eu
 drive.google.com
 dropbox.com
-*.icloud.com
+icloud.com
 icloud-content.com
+gateway.icloud.com
 oneclient.sfx.ms
 onedrive.com
 *.torproject.com
