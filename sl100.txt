@@ -1,7 +1,7 @@
 *.sharefile.eu
 drive.google.com
 dropbox.com
-icloud.com
+*.icloud.com
 icloud-content.com
 oneclient.sfx.ms
 onedrive.com
