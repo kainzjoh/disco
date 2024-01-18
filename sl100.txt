@@ -4,6 +4,7 @@ dropbox.com
 icloud.com
 icloud-content.com
 gateway.icloud.com
+*.fe2.apple-dns.net
 oneclient.sfx.ms
 onedrive.com
 *.torproject.com
