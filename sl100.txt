@@ -46,6 +46,7 @@ vas.samsungapps.com
 odc.officeapps.live.com
 login.windows.net
 login.microsoftonline.com
+1drv.ms
 *.files.1drv.com
 *.onedrive.live.com
 storage.live.com
