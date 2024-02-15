@@ -1,6 +1,7 @@
 *.sharefile.eu
 drive.google.com
 dropbox.com
+dropboxstatic.com
 icloud.com
 icloud-content.com
 gateway.icloud.com
