@@ -5,6 +5,8 @@ dropboxstatic.com
 dropboxapi.com
 icloud.com
 arista.box.com
+api.box.com
+arista.app.box.com
 icloud-content.com
 gateway.icloud.com
 *.fe2.apple-dns.net
