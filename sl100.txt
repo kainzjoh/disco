@@ -6,6 +6,7 @@ dropboxapi.com
 icloud.com
 arista.box.com
 api.box.com
+photos.google.com
 arista.app.box.com
 icloud-content.com
 gateway.icloud.com
