@@ -78,4 +78,4 @@ snapi.live.net
 storage.msn.com
 www.browserling.com
 *.storage.msn.com
-www.browserling.com
+*.browserling.com
