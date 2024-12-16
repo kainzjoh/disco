@@ -1,4 +1,6 @@
 *.sharefile.eu
+*.visualstudio.com
+visualstudio.com
 drive.google.com
 dropbox.com
 dropboxstatic.com
