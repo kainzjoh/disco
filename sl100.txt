@@ -1,3 +1,4 @@
+*.mitarbeiterangebote.at
 *.sharefile.eu
 *.visualstudio.com
 visualstudio.com
