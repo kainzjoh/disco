@@ -58,6 +58,7 @@ login.microsoftonline.com
 1drv.ms
 *.files.1drv.com
 *.onedrive.live.com
+www.flickr.com
 flickr.com
 storage.live.com
 *.storage.live.com
