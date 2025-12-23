@@ -1,0 +1,44 @@
+
+eval "$(/opt/homebrew/bin/brew shellenv)"
+
+PROMPT='%B%F{240}%1~%f%b %(?.%F{green}%#.%F{red}%#)%f '
+bindkey '^ ' autosuggest-accept
+HISTSIZE=50000
+SAVEHIST=10000
+setopt extended_history
+setopt hist_expire_dups_first
+setopt hist_ignore_dups
+setopt hist_ignore_space
+setopt inc_append_history
+setopt share_history
+
+function venv() {
+  echo python3 -m venv $(pwd)
+  python3 -m venv .
+  source bin/activate }
+
+function cls(){
+    if [ $TERM_PROGRAM = "tmux" ]; then
+        clear && tmux clear-history
+    else
+        clear
+    fi
+}
+
+ssh() { /usr/bin/ssh "$@" | /Users/johannes.kainz/Library/Python/3.13/bin/ct; }
+
+
+function zz() {
+zip -P 77vxowAsNfXefVV77MNKWMlWteP3opoy $HOME/Downloads/$(head -100 /dev/urandom | cksum | cut -f1 -d " ").zip $*
+}
+alias ls='ls -G '
+alias h='history'
+alias ll="ls -lahG"
+alias tailf='tail -f'
+
+if type brew &>/dev/null; then
+    FPATH=$(brew --prefix)/share/zsh-completions:$FPATH
+
+    autoload -Uz compinit
+    compinit
+  fi
